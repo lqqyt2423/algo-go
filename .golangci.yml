@@ -40,6 +40,8 @@ linters:
     - testpackage
     - wsl
     - gomnd
+    - funlen
+    - gocognit
   fast: false
 
 linters-settings:
