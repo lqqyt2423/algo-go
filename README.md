@@ -1,4 +1,4 @@
-# algo-go ![Go](https://github.com/zcong1993/algo-go/workflows/Go/badge.svg) [![codecov](https://codecov.io/gh/zcong1993/algo-go/branch/master/graph/badge.svg?token=DS9H37NCAH)](https://codecov.io/gh/zcong1993/algo-go)
+# algo-go ![Go](https://github.com/lqqyt2423/algo-go/workflows/Go/badge.svg) [![codecov](https://codecov.io/gh/zcong1993/algo-go/branch/master/graph/badge.svg?token=DS9H37NCAH)](https://codecov.io/gh/zcong1993/algo-go)
 
 Golang Leetcode
 

@@ -3,8 +3,8 @@ package queue_test
 import (
 	"testing"
 
+	"github.com/lqqyt2423/algo-go/pkg/queue"
 	"github.com/stretchr/testify/assert"
-	"github.com/zcong1993/algo-go/pkg/queue"
 )
 
 func TestDeQueue(t *testing.T) {

@@ -11,7 +11,7 @@ import (
 	"sync"
 	"text/template"
 
-	"github.com/zcong1993/algo-go/pkg/leetcode"
+	"github.com/lqqyt2423/algo-go/pkg/leetcode"
 )
 
 var tagTpl = template.Must(template.New("tag").Parse(tagStr))

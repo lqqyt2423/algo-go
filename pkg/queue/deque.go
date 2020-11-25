@@ -3,7 +3,7 @@ package queue
 import (
 	"errors"
 
-	"github.com/zcong1993/algo-go/pkg/list"
+	"github.com/lqqyt2423/algo-go/pkg/list"
 )
 
 var ErrNotExists = errors.New("not exists")

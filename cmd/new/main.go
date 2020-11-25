@@ -10,7 +10,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/zcong1993/algo-go/pkg/leetcode"
+	"github.com/lqqyt2423/algo-go/pkg/leetcode"
 )
 
 const (

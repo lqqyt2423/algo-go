@@ -5,12 +5,12 @@ import (
 	"log"
 	"os"
 
-	"github.com/zcong1993/algo-go/cmd/tags"
+	"github.com/lqqyt2423/algo-go/cmd/tags"
 
-	"github.com/zcong1993/algo-go/pkg/leetcode"
+	"github.com/lqqyt2423/algo-go/pkg/leetcode"
 
-	"github.com/zcong1993/algo-go/cmd/new"
-	"github.com/zcong1993/algo-go/cmd/update"
+	"github.com/lqqyt2423/algo-go/cmd/new"
+	"github.com/lqqyt2423/algo-go/cmd/update"
 	"gopkg.in/alecthomas/kingpin.v2"
 )
 

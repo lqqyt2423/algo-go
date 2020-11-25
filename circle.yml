@@ -5,7 +5,7 @@ jobs:
       # CircleCI Go images available at: https://hub.docker.com/r/circleci/golang/
       - image: circleci/golang:1.10
 
-    working_directory: /go/src/github.com/zcong1993/algo-go
+    working_directory: /go/src/github.com/lqqyt2423/algo-go
 
     steps:
       - checkout

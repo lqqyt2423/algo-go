@@ -3,8 +3,8 @@ package list_test
 import (
 	"testing"
 
+	"github.com/lqqyt2423/algo-go/pkg/list"
 	"github.com/stretchr/testify/assert"
-	"github.com/zcong1993/algo-go/pkg/list"
 )
 
 func assertNilList(t *testing.T, dl *list.DoubleList) {

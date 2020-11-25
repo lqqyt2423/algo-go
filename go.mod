@@ -1,4 +1,4 @@
-module github.com/zcong1993/algo-go
+module github.com/lqqyt2423/algo-go
 
 go 1.14
 
