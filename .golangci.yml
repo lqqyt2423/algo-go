@@ -34,6 +34,12 @@ linters:
     - nakedret
     - prealloc
     - scopelint
+    - gocritic
+    - godot
+    - gofmt
+    - testpackage
+    - wsl
+    - gomnd
   fast: false
 
 linters-settings:

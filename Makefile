@@ -14,7 +14,7 @@ update: gen format
 .PHONY: update
 
 test:
-	go test ./...
+	go test ./solve/...
 .PHONY: test
 
 build:
