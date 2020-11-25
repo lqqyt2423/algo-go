@@ -3,7 +3,7 @@ default: update
 
 format:
 	go fmt ./... && goimports -l -w . && go vet ./...
-	# prettier --write "**/*.md"
+	prettier --write "**/*.md"
 .PHONY: format
 
 gen:
